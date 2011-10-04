@@ -1,0 +1,31 @@
+###############################################
+Ecommerce My Business World Module
+###############################################
+
+Maintainer Contact
+-----------------------------------------------
+see https://code.google.com/p/silverstripe-ecommerce/
+nfrancken[at]sunnysideup.co.nz
+
+Requirements
+-----------------------------------------------
+Sapphire 2.4+
+
+Documentation
+-----------------------------------------------
+see https://code.google.com/p/silverstripe-ecommerce/
+
+Installation Instructions
+-----------------------------------------------
+1. Find out how to add modules to SS and add module as per usual.
+
+2. copy configurations from this module's _config.php file
+into mysite/_config.php file and edit settings as required.
+NB. the idea is not to edit this module so that you can
+upgrade this module in one go without redoing the settings.
+Instead customise your application using your mysite folder.
+
+Tips
+-----------------------------------------------------------
+
+
