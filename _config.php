@@ -7,9 +7,6 @@
  **/
 
 
-Director::addRules(50, array(
-	ReceiveFromMyBusinessWorld::get_url_segment() . '/$Action/$ID/$OtherID' => 'ReceiveFromMyBusinessWorld'
-));
 
 // copy the lines below to your mysite/_config.php file and set as required.
 // __________________________________START ECOMMERCE MY BUSINESS WORLD MODULE CONFIG __________________________________
