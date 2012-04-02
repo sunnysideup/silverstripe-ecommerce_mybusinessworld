@@ -12,7 +12,7 @@
 
 class RequestInformationFromMBW extends Object {
 
-	protected static $url = 'https://c2.m2sc.nl/Fashion01/services/BusinessLink.asmx?WSDL';
+	protected static $url = 'https://login.emalo.nl/avelon/services/BusinessLink.asmx?WSDL';//https://c2.m2sc.nl/Fashion01/services/BusinessLink.asmx?WSDL
 
 	/**
 	 *access service
