@@ -114,7 +114,7 @@ class RequestInformationFromMBW extends Object {
 					return self::$xml_object->parse($xml, true);
 				}
 				else {
-					user_error("unexpected result", E_USER_WARNING);
+					//user_error("unexpected result", E_USER_WARNING);
 				}
 			}
 		}
