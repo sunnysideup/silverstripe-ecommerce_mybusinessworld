@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe/ecommerce_mybusinessworld",
+	"name": "sunnysideup/ecommerce_mybusinessworld",
 	"type": "silverstripe-module",
 	"description": "This module adds a basic connection between silverstripe e-commerce and my business world",
 	"homepage": "http://www.silverstripe-ecommerce.com",
