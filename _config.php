@@ -17,6 +17,3 @@
 //RequestInformationFromMBW::set_db_credentials_spassword("xxx");
 //RequestInformationFromMBW::set_db_credentials_smethod("xxx");
 // __________________________________ END ECOMMERCE MY BUSINESS WORLD MODULE CONFIG __________________________________
-
-
-
